@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrucesApp</string>
+    <string name="TextView">Introduce el número de cruce:</string>
+    <string name="NumCruce">Número de cruce</string>
+    <string name="bttText">Consultar</string>
+    <string name="txtDireccion">Dirección</string>
+    <string name="txtCentral">Central</string>
+    <string name="txtNodo">Nodo</string>
+    <string name="txtTipo">Tipo de Regulador</string>
+    <string name="bttMapa">ABRIR EN EL MAPA</string>
+</resources>
