@@ -1,6 +1,6 @@
 package com.martific.crucesapp.data
 
-class Cruce (val numCruce: Long, val direccion: String, val tipoRegulador: String, val central: Int,  val nodo: Int)
+class Cruce (var numCruce: Long, var direccion: String, var tipoRegulador: String, var central: Int, var nodo: Int)
 
     private var NumCruce: Long = 0
     private var Direccion: String = ""
